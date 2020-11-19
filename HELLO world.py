@@ -4,5 +4,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> print ("hello world")
 hello world
 >>> print ("hi")
-hi
+hi 
+
+
+
+ Olivia was here
 >>> 
